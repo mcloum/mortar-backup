@@ -34,12 +34,7 @@ Go get the official RomM Client [Grout](https://github.com/rommapp/grout)!
 
 1. Own a TrimUI Brick or Smart Pro and have a SD Card with NextUI.
 2. Connect your device to a Wi-Fi network.
-3. The preferred Mortar installation method is to use the NextUI Pak Store. You can find the Pak Store in the
-   `Tools` menu. Once in the Pak Store, Mortar can be found under the `ROM Management` category.
-    - Alternatively, download the [latest Mortar release](https://github.com/UncleJunVIP/Mortar/releases/latest) for
-      NextUI (look for
-      `Mortar.pak.zip`)
-    - For manual downloads, extract the release zip and place the `Mortar.pak` directory into `SD_ROOT/Tools/tg5040`.
+3. Extract the release zip and place the `Mortar.pak` directory into `SD_ROOT/Tools/tg5040`.
 4. Follow the "How To Configure Mortar" section below to complete the setup.
 5. Launch `Mortar` from the `Tools` menu and enjoy!
 
