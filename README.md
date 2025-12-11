@@ -9,7 +9,7 @@
 
 1. Own a TrimUI Brick or Smart Pro and have a SD Card with NextUI.
 2. Connect your device to a Wi-Fi network.
-3. Extract the release zip and place the `Mortar.pak` directory into `SD_ROOT/Tools/tg5040`.
+3. Extract the  zip and place the contents into a folder called `Mortar.pak` into `SD_ROOT/Tools/tg5040/`.
 4. Follow the "How To Configure Mortar" section below to complete the setup.
 5. Launch `Mortar` from the `Tools` menu and enjoy!
 
