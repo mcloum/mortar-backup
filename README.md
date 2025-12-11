@@ -14,29 +14,6 @@ THI IS A BACKUP OF THE LAST VERSION OF MORTAR. NO SUPPORT IS GIVEN, NOR ARE ANY 
 
 ---
 
-### muOS Setup
-
-Mortar has only been tested on muOS 2508.1 Canada Goose on an Anbernic RG35XXSP.
-
-Please help by verifying if it works on other devices!
-
-1. Own a supported device running muOS.
-2. Download the the zip form this repo.
-3. Transfer the `Mortar.muxapp` file to SD1 `(mmc)/ARCHIVE` on your device.
-4. Go to Applications and launch Archive Manager.
-5. Select [SD1-APP] Mortar from the list and let it extract to your applications directory.
-6. Exit Archive Manager.
-7. Follow the "How To Configure Mortar" section below to complete the setup.
-8. Find an [input mapping config](/.github/resources/input_mappings) for your device.
-    - If one does not exist, please try one for a different device.
-9. Save the input mapping JSON file as `input_mapping.json` and transfer it to SD1 `(mmc)/Applications/Mortar` on your
-   device.
-10. Select `Apps` on the Main Menu, launch Mortar and enjoy!
-
-**Note:** Mortar does not support downloading art on muOS.
-
----
-
 ### How To Configure Mortar
 
 1. Connect your handheld to a Wi-Fi network.
