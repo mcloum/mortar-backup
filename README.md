@@ -1,30 +1,4 @@
-<div align="center">
-
-<img src=".github/resources/mortar-logo.png" width="auto" alt="Mortar wordmark">
-<h3 style="font-size: 25px; padding-top: 0; margin-top: 0;">
-    A ROM download client for Megathread.
-</h3>
-
-<h4 style="font-size: 18px; padding-top: 0; margin-top: 0;">
-
-Art Downloads powered by the _[Libretro Thumbnail Project](https://github.com/libretro-thumbnails/libretro-thumbnails)_
-</h4>
-
-![GitHub License](https://img.shields.io/github/license/UncleJunVip/Mortar?style=for-the-badge&color=007C77)
-![GitHub Release](https://img.shields.io/github/v/release/UncleJunVIP/Mortar?sort=semver&style=for-the-badge&color=007C77)
-![GitHub Repo stars](https://img.shields.io/github/stars/UncleJunVip/Mortar?style=for-the-badge&color=007C77)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/UncleJunVIP/Mortar/total?style=for-the-badge&label=Total%20Downloads&color=007C77)
-
-<h3 style="font-size: 25px; padding-top: 0; margin-top: 0;">
-    Looking for RomM Support?
-</h3>
-
-<h4 style="font-size: 18px; padding-top: 0; margin-top: 0;">
-
-Go get the official RomM Client [Grout](https://github.com/rommapp/grout)!
-</h4>
-
-</div>
+THI IS A BACKUP OF THE LAST VERSION OF MORTAR. NO SUPPORT IS GIVEN, NOR ARE ANY UPDATES BEIGN DEVELOPED.
 
 ---
 
@@ -47,8 +21,7 @@ Mortar has only been tested on muOS 2508.1 Canada Goose on an Anbernic RG35XXSP.
 Please help by verifying if it works on other devices!
 
 1. Own a supported device running muOS.
-2. Download the [latest Mortar release](https://github.com/UncleJunVIP/Mortar/releases/latest) for muOS (look for
-   `Mortar.muxapp`).
+2. Download the the zip form this repo.
 3. Transfer the `Mortar.muxapp` file to SD1 `(mmc)/ARCHIVE` on your device.
 4. Go to Applications and launch Archive Manager.
 5. Select [SD1-APP] Mortar from the list and let it extract to your applications directory.
@@ -56,13 +29,11 @@ Please help by verifying if it works on other devices!
 7. Follow the "How To Configure Mortar" section below to complete the setup.
 8. Find an [input mapping config](/.github/resources/input_mappings) for your device.
     - If one does not exist, please try one for a different device.
-    - If that does not work, please [create an issue](https://github.com/UncleJunVIP/Mortar/issues/new).
-    - A first launch setup process is in the works but is not ready for prime-time.
 9. Save the input mapping JSON file as `input_mapping.json` and transfer it to SD1 `(mmc)/Applications/Mortar` on your
    device.
 10. Select `Apps` on the Main Menu, launch Mortar and enjoy!
 
-**Note:** Mortar does not support downloading art on muOS. This will be added in a future release.
+**Note:** Mortar does not support downloading art on muOS.
 
 ---
 
@@ -83,8 +54,8 @@ Please help by verifying if it works on other devices!
 If Mortar does not find a config.json file or if the provided config file has syntax errors you will see an error screen
 with a QR Code that leads to this page. If you arrived at this page for this reason, please continue reading.
 
-Please edit the template [found here](/.github/resources/config_examples/megathread.json) and save the edited file as
-`config.json`.
+Please edit the template 'config.yaml'
+
 
 These are templates. They **_will not function_** without modification.
 
@@ -170,13 +141,4 @@ These are templates. They **_will not function_** without modification.
 - **log_level**: Optional, defaults to error. Handy when shit breaks
 
 Sample configuration files can be in the repo. 
- 
----
 
-## Be a friend, tell a friend something nice; it might change their life!
-
-I've spent a good chunk of time building Mortar.
-
-If you feel inclined to pay it forward, go do something nice for someone! ❤️
-
-✌🏻
