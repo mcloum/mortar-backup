@@ -169,33 +169,8 @@ These are templates. They **_will not function_** without modification.
 
 - **log_level**: Optional, defaults to error. Handy when shit breaks
 
-Sample configuration files can be [found here](/.github/resources/config_examples).
-
-**Note:** The old YAML format will automatically migrate to the new JSON format. No more fighting indentation!
-
-### To easily edit the config file, use the [Web Editor](https://mortar.unclejun.vip).
-
----
-
-## Enjoying Mortar And Use NextUI?
-
-You might be interested in my other Paks!
-
-[Pak Store](https://github.com/UncleJunVIP/nextui-pak-store) - install, update and manage the amazing work from the
-community right on your device
-
-[Game Manager](https://github.com/UncleJunVIP/nextui-game-manager) - manage your ROM library right on your device
-
----
-
-## Feeling Inspired?
-
-Want to build your own application like Mortar?
-
-Check out [gabagool](https://github.com/UncleJunVIP/gabagool), an SDL 2 UI Library for Retro DooDads.
-
-It comes with a bunch of useful components so you can focus on the fun stuff.
-
+Sample configuration files can be in the repo. 
+ 
 ---
 
 ## Be a friend, tell a friend something nice; it might change their life!
